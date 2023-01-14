@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.3.0",
+    "docker": "^1.0.0",
+    "docker-compose": "^0.23.17",
+    "graphql": "^16.6.0",
+    "knex": "^2.4.0",
+    "mysql": "^2.18.1"
+  }
+}
